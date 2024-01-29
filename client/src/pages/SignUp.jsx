@@ -13,7 +13,7 @@ const SignUp = () => {
             </span>
             Blog
           </Link>
-          <p className="tetxt-sm mt-5">
+          <p className="text-sm mt-5">
             This is a project developed to learn MERN stack. You can sign up
             with your email and password or with Google.
           </p>
