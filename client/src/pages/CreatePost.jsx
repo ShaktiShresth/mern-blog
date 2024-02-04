@@ -105,7 +105,7 @@ const CreatePost = () => {
           />
           <Select
             onChange={(ev) =>
-              setFormData({ ...formData, categogry: ev.target.value })
+              setFormData({ ...formData, category: ev.target.value })
             }
           >
             <option value="uncategorized">Select a category</option>
